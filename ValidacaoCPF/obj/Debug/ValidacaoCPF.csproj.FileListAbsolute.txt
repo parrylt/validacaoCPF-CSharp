@@ -1,0 +1,10 @@
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.Form1.resources
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.Properties.Resources.resources
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\bin\Debug\ValidacaoCPF.exe.config
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\bin\Debug\ValidacaoCPF.exe
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\bin\Debug\ValidacaoCPF.pdb
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.exe
+C:\Users\Alunos\Desktop\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.pdb
