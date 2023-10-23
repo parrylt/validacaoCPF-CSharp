@@ -1,5 +1,5 @@
 # validacaoCPF-CSharp
-programa no c sharp com classe para vallidar CPF
+programa no c sharp com classe para validar CPF. Segundo semestre na ETEC de guarulhos
 <br>
 <div align="center">
   <h3>Menu para validar CPF</h3>
